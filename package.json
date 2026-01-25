@@ -1,0 +1,14 @@
+{
+    "name": "minecraft-bot-tester",
+    "version": "1.0.0",
+    "description": "A tool to test Minecraft server anti-bot defenses using mineflayer",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "mineflayer": "^4.33.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
