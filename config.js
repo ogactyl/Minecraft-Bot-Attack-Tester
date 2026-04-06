@@ -1,8 +1,8 @@
 module.exports = {
     // Server Connection Details
     server: {
-        host: "127.0.0.1",
-        port: 25565,
+        host: "fr.souldrain.in",
+        port: 25637,
         version: "1.21.5" // Updated to match your server version
     },
 
