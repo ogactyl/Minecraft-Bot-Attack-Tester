@@ -8,8 +8,8 @@ module.exports = {
 
     // Bot Configuration
     bots: {
-        count: 20, // Number of bots to spawn
-        joinDelay: 2000, // Delay between each bot joining (ms)
+        count: 500, // Number of bots to spawn
+        joinDelay: 10, // Delay between each bot joining (ms)
     },
 
     // Naming Strategy
